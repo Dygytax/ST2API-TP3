@@ -22,3 +22,5 @@ I can improve my previous TP by making more class, making my code more clean, op
 
 Here is the screenshot from my UI : 
 ![Capture d'écran Interface Graphique](https://user-images.githubusercontent.com/66835287/178751162-5bcccdf7-4929-410b-b1cf-d4ab84274ba1.jpg)
+
+I have create a standalone .exe that can be found directly on the first page.
